@@ -4,7 +4,6 @@ bcrypt hash decrypt
 ## Install dependency:
 install bcrypt pip `pip3 install bcrypt`
 
-Use `python3 bcrypt-decrypt.py`
 
 
 ## Usage:
@@ -21,3 +20,4 @@ Also change the wordlist directory using that you can bruteforce
 wordlist_path = "path/to/your/wordlist.txt"
 ```
 
+Use `python3 bcrypt-decrypt.py`

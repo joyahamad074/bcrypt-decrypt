@@ -4,6 +4,8 @@ bcrypt hash decrypt
 ## Install dependency:
 install bcrypt pip `pip3 install bcrypt`
 
+Use `python3 bcrypt-decrypt.py`
+
 
 ## Usage:
 
